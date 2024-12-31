@@ -1,5 +1,5 @@
 # imap_bckp_mbox
-Skrypt Bash do Konfiguracji Pobierania Poczty za pomocą Getmail
+Skrypt Bash do konfiguracji pobierania poczty za pomocą Getmail. (Wykonywanie kopii skrzynek pocztowych)
 
 Ten skrypt automatyzuje konfigurację pobierania poczty z serwera IMAP przy użyciu narzędzia Getmail. Użytkownik podaje dane logowania do skrzynki e-mail, a skrypt tworzy odpowiednie katalogi, pliki konfiguracyjne oraz logi dla Getmail.
 
